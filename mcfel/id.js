@@ -159,3 +159,7 @@ function storeImageInIndexedDB(imageDataUrl) {
     console.error("Error opening IndexedDB:", err);
   };
 }
+window.addEventListener("beforeunload", function (event) {
+  event.preventDefault();
+  event.returnValue = ""; // Wymagane przez niektóre przeglądarki, aby pokazać komunikat
+});
