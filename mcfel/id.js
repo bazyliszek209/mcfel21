@@ -110,9 +110,6 @@ function showImageUploadOption() {
   uploadContainer.style.borderRadius = '8px';
   uploadContainer.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.3)';
   uploadContainer.innerHTML = `
-    <p>Upload your profile image:</p>
-    <input type="file" id="image-upload" accept="image/*">
-    <button id="close-upload" style="margin-top: 10px;">Cancel</button>
   `;
 
   // Append the upload container to the overlay
