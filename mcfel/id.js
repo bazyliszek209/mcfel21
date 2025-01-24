@@ -103,15 +103,6 @@ function showImageUploadOption() {
   overlay.style.justifyContent = 'center';
   overlay.style.zIndex = '1000'; // Ensures it's on top of other elements
 
-  // Create the upload container
-  const uploadContainer = document.createElement('div');
-  uploadContainer.style.backgroundColor = '#fff';
-  uploadContainer.style.padding = '20px';
-  uploadContainer.style.borderRadius = '8px';
-  uploadContainer.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.3)';
-  uploadContainer.innerHTML = `
-  `;
-
   // Append the upload container to the overlay
   overlay.appendChild(uploadContainer);
   document.body.appendChild(overlay);
