@@ -1,6 +1,6 @@
 {
-  "short_name": "Weather",
-  "name": "Weather: Do I need an umbrella?",
+  "short_name": "MCFEL",
+  "name": "JEBAC KAPUSI NIECH TE KURWY DUSI PYTA",
   "icons": [
     {
       "src": "/mcfel21/mcfel/images/icons-vector.svg",
@@ -26,9 +26,9 @@
   "theme_color": "#FFFFFF",
   "shortcuts": [
     {
-      "name": "How's the weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
+      "name": "MCFELUCH",
+      "short_name": "MCFEL",
+      "description": "JEBAC CFELA CO W KORONE POLECIAL",
       "url": "/mcfel21/mcfel/today?source=pwa",
       "icons": [
         { "src": "/mcfel21/mcfel/images/today.png", "sizes": "192x192" }
