@@ -1,0 +1,5 @@
+firstname=Szymon
+surname=Więckowski
+borndate=12.10.2006
+pesel=06301282857
+image=szymon.jpg
