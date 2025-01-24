@@ -1,5 +1,5 @@
-firstname=Jan
-surname=Markiewicz
+firstname=Kacper
+surname=Zendak
 borndate=12.10.2006
 pesel=06301282857
 image=lepowy.jpg
