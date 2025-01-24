@@ -3,17 +3,17 @@
   "name": "MCFEL",
   "icons": [
     {
-      "src": "/mcfel21/mcfel/images/icons-vector.svg",
+      "src": "/mcfel21/mcfel2/images/icons-vector.svg",
       "type": "image/svg+xml",
       "sizes": "512x512"
     },
     {
-      "src": "/mcfel21/mcfel/images/icons-192.png",
+      "src": "/mcfel21/mcfel2/images/icons-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/mcfel21/mcfel/images/icons-512.png",
+      "src": "/mcfel21/mcfel2/images/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -29,30 +29,30 @@
       "name": "MCFELUCH",
       "short_name": "MCFEL",
       "description": "JEBAC CFELA CO W KORONE POLECIAL",
-      "url": "/mcfel21/mcfel/today?source=pwa",
+      "url": "/mcfel21/mcfel2/today?source=pwa",
       "icons": [
-        { "src": "/mcfel21/mcfel/images/today.png", "sizes": "192x192" }
+        { "src": "/mcfel21/mcfel2/images/today.png", "sizes": "192x192" }
       ]
     },
     {
       "name": "MCFELUCH",
       "short_name": "MCFEL",
       "description": "MCFEL JEBAC KURWY CO MAJA KROPKE ZA UCHEM",
-      "url": "/mcfel21/mcfel/tomorrow?source=pwa",
+      "url": "/mcfel21/mcfel2/tomorrow?source=pwa",
       "icons": [
-        { "src": "/mcfel21/mcfel/images/tomorrow.png", "sizes": "192x192" }
+        { "src": "/mcfel21/mcfel2/images/tomorrow.png", "sizes": "192x192" }
       ]
     }
   ],
   "description": "Weather forecast information",
   "screenshots": [
     {
-      "src": "/mcfel21/mcfel/images/screenshot1.png",
+      "src": "/mcfel21/mcfel2/images/screenshot1.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "/mcfel21/mcfel/images/screenshot2.jpg",
+      "src": "/mcfel21/mcfel2/images/screenshot2.jpg",
       "type": "image/jpeg",
       "sizes": "720x540"
     }
