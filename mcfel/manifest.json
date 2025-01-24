@@ -33,9 +33,9 @@
         "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
       },
       {
-        "name": "How's the weather tomorrow?",
-        "short_name": "Tomorrow",
-        "description": "View weather information for tomorrow",
+        "name": "MCFELUCH",
+        "short_name": "MCFEL",
+        "description": "MCFEL JEBAC KURWY CO MAJA KROPKE ZA UCHEM",
         "url": "/tomorrow?source=pwa",
         "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
       }
