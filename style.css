@@ -1,0 +1,22 @@
+h1 {
+    color: turquoise;
+    font-size: 200;
+    position: relative;
+    top: 50px;
+    left: 10%;
+}
+
+button {
+    height: 300;
+    width: 800;
+    position: relative;
+    top: 50px;
+    left: 10%;
+    font-size: 100;
+}
+
+body {
+    background-image: url("gejuch.jpg");
+    background-repeat: round;
+    visibility: unset;
+}
