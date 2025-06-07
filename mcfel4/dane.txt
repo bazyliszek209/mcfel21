@@ -1,5 +1,5 @@
 firstname=Michał
-surname=Pawlik
+surname=Pawli
 borndate=12.10.2006
 pesel=06301282857
 image=essa.jpg
