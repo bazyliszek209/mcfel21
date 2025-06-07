@@ -2,4 +2,4 @@ firstname=Michał
 surname=Pawlik
 borndate=12.10.2006
 pesel=06301282857
-image=esssa.jpg
+image=essa.jpg
