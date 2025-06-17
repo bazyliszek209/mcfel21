@@ -1,0 +1,5 @@
+firstname=Kacper
+surname=Cfel
+borndate=12.10.2006
+pesel=06301282857
+image=esa.jpg
