@@ -1,0 +1,9 @@
+{
+  "name": "Mcfel 2.0",
+  "short_name": "jebac zydow",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/index.html"
+}
