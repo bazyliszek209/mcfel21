@@ -6,7 +6,7 @@
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/dashboard.html",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "iio.jpg",
