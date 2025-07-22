@@ -1,60 +1,10 @@
 {
-  "short_name": "MCFEL",
-  "name": "MCFEL",
-  "icons": [
-    {
-      "src": "/mcfel21/mcfel2/images/icons-vector.svg",
-      "type": "image/svg+xml",
-      "sizes": "512x512"
-    },
-    {
-      "src": "/mcfel21/mcfel2/images/icons-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/mcfel21/mcfel2/images/icons-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "id": "/?source=pwa",
-  "start_url": "/mcfel21/mcfel2/id.html",
-  "scope": "/mcfel21/mcfel2/",
-  "background_color": "#FFFFFF",
-  "display": "standalone",
-  "theme_color": "#FFFFFF",
-  "shortcuts": [
-    {
-      "name": "MCFELUCH",
-      "short_name": "MCFEL",
-      "description": "JEBAC CFELA CO W KORONE POLECIAL",
-      "url": "/mcfel21/mcfel2/today?source=pwa",
-      "icons": [
-        { "src": "/mcfel21/mcfel2/images/today.png", "sizes": "192x192" }
-      ]
-    },
-    {
-      "name": "MCFELUCH",
-      "short_name": "MCFEL",
-      "description": "MCFEL JEBAC KURWY CO MAJA KROPKE ZA UCHEM",
-      "url": "/mcfel21/mcfel2/tomorrow?source=pwa",
-      "icons": [
-        { "src": "/mcfel21/mcfel2/images/tomorrow.png", "sizes": "192x192" }
-      ]
-    }
-  ],
-  "description": "Weather forecast information",
-  "screenshots": [
-    {
-      "src": "/mcfel21/mcfel2/images/screenshot1.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/mcfel21/mcfel2/images/screenshot2.jpg",
-      "type": "image/jpeg",
-      "sizes": "720x540"
-    }
-  ]
+  "name": "mcfel2.0",
+  "short_name": "mcfel",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "fullScreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/index.html"
 }
