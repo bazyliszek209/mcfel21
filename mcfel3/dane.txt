@@ -1,5 +1,0 @@
-firstname=Marek
-surname=Kwiatkowski
-borndate=12.10.2006
-pesel=06301282857
-image=opasnik.jpg
