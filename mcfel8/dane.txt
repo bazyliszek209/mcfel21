@@ -2,4 +2,4 @@ firstnameFranciszek
 surname=Madajski
 borndate=30.10.2008
 pesel=08301282857
-image=esa.jpg
+image=esa.jpeg
