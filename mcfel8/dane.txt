@@ -1,5 +1,0 @@
-firstnameFranciszek
-surname=Madajski
-borndate=30.10.2008
-pesel=08303013275
-image=esa.jpeg
